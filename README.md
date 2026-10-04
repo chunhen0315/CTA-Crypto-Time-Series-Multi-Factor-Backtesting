@@ -1,4 +1,4 @@
-# Alphora Quant Research Lab
+# CTA Quant Research Lab
 
 A research-grade cryptocurrency alpha pipeline for parameter optimization, walk-forward validation, overfitting analysis, correlation-aware portfolio construction, and interactive performance reporting.
 
@@ -6,7 +6,7 @@ A research-grade cryptocurrency alpha pipeline for parameter optimization, walk-
 
 ## Overview
 
-Alphora Quant Research Lab converts market and on-chain datasets into reproducible strategy experiments. Alpha definitions are loaded from JSON, transformed into model signals, evaluated with transaction costs, optimized using Optuna's Tree-structured Parzen Estimator (TPE), and challenged with out-of-sample and walk-forward tests before portfolio construction.
+CTA Quant Research Lab converts market and on-chain datasets into reproducible strategy experiments. Alpha definitions are loaded from JSON, transformed into model signals, evaluated with transaction costs, optimized using Optuna's Tree-structured Parzen Estimator (TPE), and challenged with out-of-sample and walk-forward tests before portfolio construction.
 
 The project emphasizes research discipline rather than a single headline backtest: time-separated datasets, parameter-stability scoring, minimum trade-activity filters, walk-forward selection, probability-of-backtest-overfitting analysis, and correlation controls.
 
